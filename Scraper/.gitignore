@@ -1,0 +1,10 @@
+# Ignore local data directory (raw data, processed outputs)
+/data/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+.env
